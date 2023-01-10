@@ -1,4 +1,4 @@
-# Spring Boot Batch Scheduler
+# Spring Batch Scheduler
 
 ## 1. 설명
 Spring Boot에서 Scheduler를 사용하여 주기적으로 Batch를 실행시키는 예제이다.
